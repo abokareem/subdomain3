@@ -1,5 +1,9 @@
 # Subdomain3
 
+python brutedns.py -f domains.txt -s high -f2 /root/subdomain3/dict/next_sub_full.txt -c y
+
+
+
 ![version](https://img.shields.io/badge/version-2.1-green.svg) ![stars](https://img.shields.io/github/stars/yanxiu0614/subdomain3.svg) ![forks](https://img.shields.io/github/forks/yanxiu0614/subdomain3.svg)  ![language](https://img.shields.io/badge/language-python2%2B-green.svg) ![language](https://img.shields.io/badge/language-python3%2B-green.svg)
 
 **README.md in [Chinese 中文](https://github.com/yanxiu0614/subdomain3/blob/master/README_ZH.md)**
